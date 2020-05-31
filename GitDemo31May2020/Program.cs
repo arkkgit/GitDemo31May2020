@@ -11,7 +11,7 @@ namespace GitDemo31May2020
         static void Main(string[] args)
         {
             // this is my first line
-
+            // We will do commit and push in single command
         }
     }
 }
